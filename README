@@ -1,13 +1,14 @@
 # ircbot-clj
 
-FIXME: write description
+Irc bot implementation in clojure
 
 ## Usage
 
-FIXME: write
+lein run irc.server.int 6667
+or
+lein uberjar
+java -jar ircbot-clj-1.0.0-standalone.jar irc.server.int 6667
 
 ## License
-
-Copyright (C) 2012 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
